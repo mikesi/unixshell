@@ -22,4 +22,4 @@ alias pur='rm *.bak *~ .*.bak .*~ *.OLD'
 alias less="less -x2"
 
 PATH=$PATH:/usr/local/sbin
-export $PATH
+export PATH
