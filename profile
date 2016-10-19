@@ -23,3 +23,9 @@ alias less="less -x2"
 
 PATH=$PATH:/usr/local/sbin
 export PATH
+
+
+alias setup_git_email='git config --global user.email "mike@mike.si"'
+alias setup_git_name='git config --global user.name "Miha Nedok"'
+alias setup_git_colors='git config --global color.ui true'
+
